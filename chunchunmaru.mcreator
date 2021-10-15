@@ -46,10 +46,11 @@
   "workspaceSettings": {
     "modid": "chunchunmaru",
     "modName": "chunchunmaru",
-    "version": "1.0.0",
-    "author": "alexa, MCreator",
-    "websiteURL": "https://mcreator.net",
-    "license": "Academic Free License v3.0",
+    "version": "1.1.1",
+    "description": "Chunchunmaru that\u0027s it :)",
+    "author": "Note, Razomi",
+    "websiteURL": "https://github.com/TheNwkos/chunchunmaru",
+    "license": "MIT License",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
@@ -57,6 +58,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.16.5",
+    "credits": "Chunchunmaru",
     "modElementsPackage": "com.github.thenwkos.chunchunmaru",
     "lockBaseModFiles": false
   },
