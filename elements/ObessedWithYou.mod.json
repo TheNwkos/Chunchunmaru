@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "chunchunmaru_disc",
+    "name": "Obessed With You",
+    "description": "Obessed With You By BlackShadow441",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "ambient.cave"
+    },
+    "specialInfo": [
+      "Obessed With You By BlackShadow441"
+    ],
+    "hasGlow": false
+  }
+}

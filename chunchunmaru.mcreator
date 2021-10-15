@@ -1,0 +1,54 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "ObessedWithYou",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obessed_with_you"
+    },
+    {
+      "name": "Chun",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chun"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.chunchunmaru.obessed_with_you": "Obessed With You",
+      "itemGroup.tabchun": "Chun",
+      "item.chunchunmaru.obessed_with_you.desc": "Obessed With You By BlackShadow441"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "chunchunmaru",
+    "modName": "chunchunmaru",
+    "version": "1.0.0",
+    "author": "alexa, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "com.github.thenwkos.chunchunmaru",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}
