@@ -6,10 +6,10 @@
     "name": "Obessed With You",
     "description": "Obessed With You By BlackShadow441",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:Chun"
     },
     "music": {
-      "value": "ambient.cave"
+      "value": "CUSTOM:obsessed-with-you"
     },
     "specialInfo": [
       "Obessed With You By BlackShadow441"

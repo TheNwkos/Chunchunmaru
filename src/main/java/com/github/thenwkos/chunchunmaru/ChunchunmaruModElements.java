@@ -45,6 +45,8 @@ public class ChunchunmaruModElements {
 	public final List<Supplier<Enchantment>> enchantments = new ArrayList<>();
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 	public ChunchunmaruModElements() {
+		sounds.put(new ResourceLocation("chunchunmaru", "obsessed-with-you"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("chunchunmaru", "obsessed-with-you")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("chunchunmaru").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

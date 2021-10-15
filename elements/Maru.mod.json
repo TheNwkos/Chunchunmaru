@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "maru",
+    "customModelName": "Normal",
+    "name": "Maru",
+    "rarity": "EPIC",
+    "specialInfo": [
+      "It taste's like a cat?"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Chun"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 666,
+    "saturation": 666.0,
+    "eatingSpeed": 37,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": true,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "MaruFoodEaten"
+    }
+  }
+}

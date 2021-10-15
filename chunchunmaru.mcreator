@@ -27,15 +27,90 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "chunchunmaru"
+    },
+    {
+      "name": "Chunchunmaruu",
+      "type": "dimension",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chunchunmaruu",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "MaruFoodEaten",
+      "type": "procedure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maru_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Maru",
+      "type": "food",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maru"
+    },
+    {
+      "name": "Chunore",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chunore"
+    },
+    {
+      "name": "MILK",
+      "type": "fluid",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milk",
+      "metadata": {
+        "gb": true
+      }
     }
   ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "obsessed-with-you",
+      "files": [
+        "obsessed-with-you-2"
+      ],
+      "category": "music",
+      "subtitle": "Your obsessed with Veibae"
+    }
+  ],
   "language_map": {
     "en_us": {
       "item.chunchunmaru.obessed_with_you": "Obessed With You",
+      "item.chunchunmaru.maru": "Maru",
       "itemGroup.tabchun": "Chun",
+      "subtitles.obsessed-with-you": "Your obsessed with Veibae",
+      "block.chunchunmaru.chunore": "Chunore",
+      "block.chunchunmaru.milk": "MILK",
       "item.chunchunmaru.obessed_with_you.desc": "Obessed With You By BlackShadow441",
+      "fluid.chunchunmaru.milk": "MILK",
+      "item.chunchunmaru.milk_bucket": "Milk",
+      "item.chunchunmaru.chunchunmaruu": "Chunchunmaruu",
       "biome.chunchunmaru.chunchunmaru": "Chunchunmaru"
     }
   },
@@ -46,7 +121,7 @@
   "workspaceSettings": {
     "modid": "chunchunmaru",
     "modName": "chunchunmaru",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "description": "Chunchunmaru that\u0027s it :)",
     "author": "Note, Razomi",
     "websiteURL": "https://github.com/TheNwkos/chunchunmaru",

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "chunchunmaru:block/chunchunmaruu_portal_ew"
+    },
+    "axis=x": {
+      "model": "chunchunmaru:block/chunchunmaruu_portal_ns"
+    }
+  }
+}

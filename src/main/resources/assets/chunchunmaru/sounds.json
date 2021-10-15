@@ -1,1 +1,12 @@
-{}
+{
+  "obsessed-with-you": {
+    "category": "music",
+    "subtitle": "subtitles.obsessed-with-you",
+    "sounds": [
+      {
+        "name": "chunchunmaru:obsessed-with-you-2",
+        "stream": true
+      }
+    ]
+  }
+}

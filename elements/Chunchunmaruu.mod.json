@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Chunchunmaru"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:Chunore"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:MILK"
+    },
+    "airColor": {
+      "value": -39322,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": true,
+    "isDark": true,
+    "doesWaterVaporize": true,
+    "sleepResult": "DENY",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "CUSTOM:Chunore"
+    },
+    "portalParticles": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "portalLuminance": 3,
+    "portalSound": {
+      "value": "CUSTOM:obsessed-with-you"
+    },
+    "igniterName": "Chunchunmaruu",
+    "igniterTab": {
+      "value": "CUSTOM:Chun"
+    },
+    "texture": "maru",
+    "portalTexture": "chun",
+    "enablePortal": true
+  }
+}

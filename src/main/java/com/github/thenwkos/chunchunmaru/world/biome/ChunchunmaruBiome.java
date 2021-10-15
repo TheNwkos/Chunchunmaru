@@ -150,7 +150,7 @@ public class ChunchunmaruBiome extends ChunchunmaruModElements.ModElement {
 
 		@Override
 		protected void func_227424_a_(IWorldWriter ww, BlockPos bp, BooleanProperty bpr, Set<BlockPos> sbc, MutableBoundingBox mbb) {
-			this.func_227423_a_(ww, bp, Blocks.TWISTING_VINES.getDefaultState(), sbc, mbb);
+			this.func_227423_a_(ww, bp, Blocks.OAK_LEAVES.getDefaultState(), sbc, mbb);
 		}
 	}
 
@@ -171,7 +171,7 @@ public class ChunchunmaruBiome extends ChunchunmaruModElements.ModElement {
 
 		@Override
 		protected void func_227424_a_(IWorldWriter ww, BlockPos bp, BooleanProperty bpr, Set<BlockPos> sbc, MutableBoundingBox mbb) {
-			this.func_227423_a_(ww, bp, Blocks.TWISTING_VINES.getDefaultState(), sbc, mbb);
+			this.func_227423_a_(ww, bp, Blocks.OAK_LEAVES.getDefaultState(), sbc, mbb);
 		}
 	}
 
